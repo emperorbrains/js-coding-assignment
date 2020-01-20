@@ -1,4 +1,4 @@
-#Given an ArrayList of N lowercase characters. The task is to count frequency of elements in the list.
+Given an ArrayList of N lowercase characters. The task is to count frequency of elements in the list.
 
 Note: use add() to append element in the list and contains() to check an element is present or not in the list and collections.frequency() to find the frequency of the element in the list.
 
