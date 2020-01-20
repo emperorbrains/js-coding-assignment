@@ -30,7 +30,7 @@ Output:
 2
 Not Present
 
-#Explanation:
+Explanation:
 Testcase 1: Inserting g, e, e, k, s into the list. Frequency of e is 2 in the list.
 
 Testcase 2: Inserting c, p, p into the list. Frequency of f is 0 in the list.
